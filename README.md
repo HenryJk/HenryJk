@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![HenryJk's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryJk&show_icons=true&theme=vue-dark)](https://github.com/HenryJk/github-readme-stats)
+[![HenryJk's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryJk&show_icons=true&theme=github_dark)](https://github.com/HenryJk/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryJk&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryJk&show_icons=true&theme=github_dark&layout=compact)
 
 <!--
 **HenryJk/HenryJk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
